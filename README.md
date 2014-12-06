@@ -67,7 +67,7 @@ A collection of cool hidden and not so hidden features of Git and GitHub. This c
     - [Git Books](#git-books)
 
 ## GitHub
-### Ignore Whitespace
+(### Ignore-Whitespace)
 Adding `?w=1` to any diff URL will remove any changes only in whitespace, enabling you to see only that code that has changed.
 
 ![Diff without whitespace](https://camo.githubusercontent.com/797184940defadec00393e6559b835358a863eeb/68747470733a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f626c6f672f323031312f736563726574732f776869746573706163652e706e67)
@@ -106,7 +106,7 @@ $ git clone https://github.com/tiimgreen/github-cheat-sheet
 [*Read more about the Git `clone` command.*](http://git-scm.com/docs/git-clone)
 
 ###Branch
-#### Compare all Branches to Another Branch
+(#### Compare-all-Branches-to-Another-Branch)
 
 If you go to the repo's [Branches](https://github.com/tiimgreen/github-cheat-sheet/branches) page, next to the Commits button:
 
@@ -134,7 +134,7 @@ To see the merged branches, append `?merged=1` to the URL.
 
 This view allows you to delete branches easily from the page, without using the command-line.
 
-#### Comparing Branches
+(#### Comparing-Branches)
 To use GitHub to compare branches, change the URL to look like this:
 
 ```
